@@ -1,3 +1,7 @@
+### This repository is deprecated!
+
+### The relevant repository can be found here [mi-angular-wbc-pack](https://github.com/movingimage-evp/mi-angular-wbc-pack)
+
 # MI Angular WBC Pack
 
 [![GitHub tag][github-image-tag]][github-url]
